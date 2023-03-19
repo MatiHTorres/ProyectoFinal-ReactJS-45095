@@ -1,0 +1,15 @@
+#card{
+    background-color: whitesmoke;
+}
+
+
+#producto :hover{
+    transform: scale(1.02);
+}
+
+#menu{
+    font-size: 2.2vh;
+    margin: 5px;
+}
+
+
